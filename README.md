@@ -6,7 +6,7 @@ Read details in http://www.danielgimeno.org/article/Introduccion-a-kafka
 
 Docker Kafka Installation:  
 
-git clone https://github.com/danielgimeno/kafka
+git clone git@github.com:danielgimeno/kafka.git
 
 
 Note: Don't forget to set up your IP of your Docker host before executing docker compose, and the conexion between producers and consumers with Kafka server.  
